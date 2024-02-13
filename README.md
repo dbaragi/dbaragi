@@ -9,6 +9,7 @@ I'm deeply interested in exploring data, analytics, and visualization. I find jo
 * 🌍  I'm based in Boise, Idaho, USA
 * ✉️  You can contact me at [deeptigururajbar@u.boisestate.edu](mailto:deeptigururajbar@u.boisestate.edu)
 * 🚀  I'm currently working on [RFM Based Segmentation in Online Retail Capstone Project](http://github.com/dbaragi/Optimizing-Customer-Value-RFM-Based-Segmentation-in-Online-Retail-Capstone-Project)
+* 💻 I'm working as a Data Analytics Intern at Idaho Transportation Department
 * 🤝  I'm open to collaborating on Data Analytics and Visualization
 
 ### Skills
