@@ -4,13 +4,13 @@ Hi 👋 My name is Deepti Baragi
 Data Analytics | Data Science | Machine Learning
 ------------------------------------------------
 
-I'm deeply interested in exploring data, analytics, and visualization. I find joy in uncovering patterns within data, using it to derive meaningful insights. Data science isn't just a field for me; it's a passion that drives me to understand and communicate complex information in simple, compelling ways.
+I am deeply interested in exploring data, analytics, and visualization. I find joy in uncovering patterns within data, using it to derive meaningful insights. Data science isn't just a field for me; it's a passion that drives me to understand and communicate complex information in simple, compelling ways.
 
-* 🌍  I'm based in Boise, Idaho, USA
+* 🌍  I am based in Boise, Idaho, USA
 * ✉️  You can contact me at [deeptigururajbar@u.boisestate.edu](mailto:deeptigururajbar@u.boisestate.edu)
-* 🚀  I'm currently working on [RFM Based Segmentation in Online Retail Capstone Project](http://github.com/dbaragi/Optimizing-Customer-Value-RFM-Based-Segmentation-in-Online-Retail-Capstone-Project)
-* 💻 I'm working as a Data Analytics Intern at Idaho Transportation Department
-* 🤝  I'm open to collaborating on Data Analytics and Visualization
+* 🚀  I am currently working on [RFM Based Segmentation in Online Retail Capstone Project](http://github.com/dbaragi/Optimizing-Customer-Value-RFM-Based-Segmentation-in-Online-Retail-Capstone-Project)
+* 💻 I am working as a Data Analytics Intern at Idaho Transportation Department
+* 🤝  I am open to collaborating on Data Analytics and Visualization
 
 ### Skills
 
