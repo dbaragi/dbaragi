@@ -4,7 +4,7 @@ Hi 👋 My name is Deepti Baragi
 Data Analytics | Data Science | Machine Learning
 ------------------------------------------------
 
-I am deeply interested in exploring data, analytics, and visualization. I find joy in uncovering patterns within data, using it to derive meaningful insights. Data science isn't just a field for me; it's a passion that drives me to understand and communicate complex information in simple, compelling ways.
+I am deeply interested in exploring data, analytics, and visualization. I find joy in uncovering patterns within data, using it to derive meaningful insights. 
 
 * 🌍  I am based in Boise, Idaho, USA
 * ✉️  You can contact me at [deeptigururajbar@u.boisestate.edu](mailto:deeptigururajbar@u.boisestate.edu)
