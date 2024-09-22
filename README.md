@@ -7,7 +7,6 @@ Data Analytics | Data Science | Machine Learning
 I am deeply interested in exploring data, analytics, and visualization. I find joy in uncovering patterns within data, using it to derive meaningful insights. 
 
 * 🌍  I am based in Boise, Idaho, USA
-* ✉️  You can contact me at [deeptigururajbar@u.boisestate.edu](mailto:deeptigururajbar@u.boisestate.edu)
 * 🚀  I am currently working on [RFM Based Segmentation in Online Retail Capstone Project](http://github.com/dbaragi/Optimizing-Customer-Value-RFM-Based-Segmentation-in-Online-Retail-Capstone-Project)
 * 💻 I am working as a Data Analyst - Corporate Digital Strategy at Boise Cascade Company
   
